@@ -10,6 +10,8 @@
 [![Donate to this project using Paypal](https://img.shields.io/badge/paypal-donate-yellow.svg)](https://www.paypal.me/moelleken)
 [![Donate to this project using Patreon](https://img.shields.io/badge/patreon-donate-yellow.svg)](https://www.patreon.com/voku)
 
+Fork from https://github.com/voku/anti-xss upgraded to PHP 8.4
+
 # :secret: AntiXSS
 
 "Cross-site scripting (XSS) is a type of computer security vulnerability typically found in Web applications. XSS enables 
